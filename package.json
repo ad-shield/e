@@ -1,0 +1,7 @@
+{
+  "name": "ad-shield",
+  "version": "1.0.0",
+  "description": "Ad-Shield's script repository",
+  "main": "index.js",
+  "author": "Ad-Shield"
+}
